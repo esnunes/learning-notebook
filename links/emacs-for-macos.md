@@ -1,9 +1,9 @@
-<!--
-belongs-to: Emacs, Mac OS X
--->
-# Emacs For Mac OS
+Title: Emacs For Mac OS  
+Keywords: Emacs, Mac OS X  
+Resource Type: link  
+Resource Link: http://www.emacswiki.org/emacs/EmacsForMacOS  
 
-[Link](http://www.emacswiki.org/emacs/EmacsForMacOS)
+# Emacs For Mac OS
 
 This wiki page is continuously updated with information about how to install, run and config Emacs for Mac OS X.
 

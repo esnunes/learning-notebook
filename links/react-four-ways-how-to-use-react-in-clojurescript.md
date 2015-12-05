@@ -1,9 +1,9 @@
-<!--
-belongs-to: React, ClojureScript
-published-at: 2014-10-01
--->
-# React Four Ways: How to Use React in ClojureScript, and Why
+Title: React Four Ways: How to Use React in ClojureScript, and Why  
+Keywords: React, ClojureScript  
+Date: 2014-10-01  
+Resource Type: link  
+Resource Link: http://blog.peeja.com/blog/2014/10/01/react-four-ways-how-to-use-react-in-clojurescript/
 
-[Link](http://blog.peeja.com/blog/2014/10/01/react-four-ways-how-to-use-react-in-clojurescript/)
+# React Four Ways: How to Use React in ClojureScript, and Why
 
 This article contains a comparison between four ClojureScript frameworks on top of React. The frameworks might be outdated but they may be a reference of different point-of-views of using React in ClojureScript.

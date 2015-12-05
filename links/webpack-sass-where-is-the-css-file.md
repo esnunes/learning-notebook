@@ -1,9 +1,9 @@
-<!--
-belongs-to: webpack, Sass
--->
-# Webpack sass where is the css file
+Title: Webpack sass where is the css file  
+Keywords: webpack, Sass  
+Resource Type: link  
+Resource Link: http://stackoverflow.com/questions/29210325/webpack-sass-where-is-the-css-file  
 
-[Link](http://stackoverflow.com/questions/29210325/webpack-sass-where-is-the-css-file)
+# Webpack sass where is the css file
 
 This StackOverflow question provides instructions of how to pack `Sass` files.
 

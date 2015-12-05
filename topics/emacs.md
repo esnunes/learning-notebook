@@ -1,7 +1,6 @@
-<!--
-type: tag
-belongs-to: functional-programming, lisp
--->
+Title: Emacs
+Keywords: Functional Programming, Lisp
+Resource Type: topic  
 
 # Emacs
 

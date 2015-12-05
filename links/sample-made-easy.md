@@ -1,10 +1,10 @@
-<!--
-belongs-to: Software Engineering
-published-at: 2011-10-20
--->
-# Simple Made Easy
+Title: Simple Made Easy  
+Keywords: Software Complexity  
+Date: 2011-10-20  
+Resource Type: link  
+Resource Link: http://www.infoq.com/presentations/Simple-Made-Easy  
 
-[Link](http://www.infoq.com/presentations/Simple-Made-Easy)
+# Simple Made Easy
 
 This presentation points out the different between **simple** and **easy**. It starts talking about the difference between those two words from their word origin. He defines both words and their antonymous (complex and hard) in the context of Software Development.
 
