@@ -1,10 +1,10 @@
-<!--
-belongs-to: Software Engineering, Software Complexity
-published-at: 2015-12-01
--->
-# Human Error
+Title: Human Error  
+Keywords: Software Complexity  
+Date: 2015-12-01  
+Resource Type: link  
+Resource Link: http://soveran.com/human-error.html  
 
-[Link](http://soveran.com/human-error.html)
+# Human Error
 
 This article points out some very good material about software engineering, specially related to develop simple software and the future of software development.
 
