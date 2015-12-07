@@ -1,6 +1,6 @@
-Title: Emacs
-Keywords: Functional Programming, Lisp
-Resource Type: topic  
+Title: Emacs  
+Keywords: Functional Programming, Emacs Lisp  
+Resource-Type: keyword  
 
 # Emacs
 

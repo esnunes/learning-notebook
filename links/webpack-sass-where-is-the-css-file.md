@@ -1,7 +1,7 @@
 Title: Webpack sass where is the css file  
 Keywords: webpack, Sass  
-Resource Type: link  
-Resource Link: http://stackoverflow.com/questions/29210325/webpack-sass-where-is-the-css-file  
+Resource-Type: link  
+Resource-Link: http://stackoverflow.com/questions/29210325/webpack-sass-where-is-the-css-file  
 
 # Webpack sass where is the css file
 

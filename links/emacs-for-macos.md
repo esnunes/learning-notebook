@@ -1,7 +1,7 @@
 Title: Emacs For Mac OS  
 Keywords: Emacs, Mac OS X  
-Resource Type: link  
-Resource Link: http://www.emacswiki.org/emacs/EmacsForMacOS  
+Resource-Type: link  
+Resource-Link: http://www.emacswiki.org/emacs/EmacsForMacOS  
 
 # Emacs For Mac OS
 

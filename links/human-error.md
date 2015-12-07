@@ -1,8 +1,8 @@
 Title: Human Error  
 Keywords: Software Complexity  
 Date: 2015-12-01  
-Resource Type: link  
-Resource Link: http://soveran.com/human-error.html  
+Resource-Type: link  
+Resource-Link: http://soveran.com/human-error.html  
 
 # Human Error
 
