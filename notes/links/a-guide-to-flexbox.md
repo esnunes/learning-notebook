@@ -1,7 +1,6 @@
 Title: A Complete Guide to Flexbox  
-Keywords: Flexbox  
-Resource-Type: link  
-Resource-Link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
+Belongs-To: Flexbox  
+Link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/  
 
 # A Complete Guide to Flexbox
 

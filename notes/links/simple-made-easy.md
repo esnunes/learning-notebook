@@ -1,8 +1,6 @@
 Title: Simple Made Easy  
-Keywords: Software Complexity  
-Date: 2011-10-20  
-Resource-Type: link  
-Resource-Link: http://www.infoq.com/presentations/Simple-Made-Easy  
+Belongs-To: Software Complexity  
+Link: http://www.infoq.com/presentations/Simple-Made-Easy  
 
 # Simple Made Easy
 

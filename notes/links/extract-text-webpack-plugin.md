@@ -1,7 +1,6 @@
 Title: Extract Text webpack Plugin  
-Keywords: webpack, CSS  
-Resource-Type: link  
-Resource-Link: https://github.com/webpack/extract-text-webpack-plugin  
+Belongs-To: webpack, CSS  
+Link: https://github.com/webpack/extract-text-webpack-plugin  
 
 # Extract Text webpack Plugin
 
