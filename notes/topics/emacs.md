@@ -11,5 +11,8 @@ brew install emacs --with-cocoa --srgb
 
 ## Keyboard shortcuts
 
-- `M-:` - Evaluate Emacs Lisp expression
-- `M-;` - Comment line / block
+- <kbd>M-:</kbd> - Evaluate Emacs Lisp expression
+- <kbd>M-;</kbd> - Comment line / block
+- <kbd>C-_</kbd> - Undo
+- <kbd>ESC-<</kbd> - Top of the file
+- <kbd>ESC-></kbd> - Bottom of the file
