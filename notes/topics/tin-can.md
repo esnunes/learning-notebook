@@ -2,7 +2,7 @@ Title: Tin Can API
 
 # Tin Can API
 
-Tin Can is also known as [Experience API or xAPI](https://tincanapi.com/overview/tin-can-xapi]).
+Tin Can is also known as [Experience API or xAPI](https://tincanapi.com/overview/tin-can-xapi).
 
 It is an evolved version of SCORM (Sharable Content Object Reference Model).
 
