@@ -16,3 +16,14 @@ brew install emacs --with-cocoa --srgb
 - <kbd>C-_</kbd> - Undo
 - <kbd>ESC-<</kbd> - Top of the file
 - <kbd>ESC-></kbd> - Bottom of the file
+
+### Window management
+
+- <kbd>C-x 5 2</kbd> - Create new frame
+- <kbd>C-x 5 0</kbd> - Close current frame
+
+### Dired
+
+- <kbd>d</kbd> - Mark file to deletion
+- <kbd>x</kbd> - Execute marked changes (e.g. delete marked files)
+- <kbd>g</kbd> - Refresh
