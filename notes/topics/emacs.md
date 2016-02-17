@@ -21,6 +21,9 @@ brew install emacs --with-cocoa --srgb
 
 - <kbd>C-x 5 2</kbd> - Create new frame
 - <kbd>C-x 5 0</kbd> - Close current frame
+- <kbd>C-x 2</kbd> - Vertical frame split
+- <kbd>C-x 3</kbd> - Horizontal frame split
+- <kbd>C-x o</kbd> - Move to *other* window
 
 ### Dired
 
