@@ -1,0 +1,44 @@
+<!-- HTTPS -->
+
+<script type="text/javascript">
+    var baseURL = '{{ .Site.BaseURL }}';
+    var host = baseURL.substring(0, baseURL.length - 1).replace(/\//g, '');
+    if ((host === window.location.host) && (window.location.protocol !== 'https:')) {
+        window.location.protocol = 'https:';
+    }
+</script>
+
+<!-- CSS -->
+
+{{ if eq true .Site.Params.CacheBuster }}
+
+<link rel="stylesheet" href="/css/reset.css">
+<link rel="stylesheet" href="/css/main.css">
+
+{{range .Site.Params.ExtraCssFiles}}
+    <link rel="stylesheet" href="{{.}}">
+{{end}}
+
+{{ else }}
+
+<link rel="stylesheet" href="/css/reset.css?{{ .Now.Unix }}">
+<link rel="stylesheet" href="/css/main.css?{{ .Now.Unix }}">
+
+{{range .Site.Params.ExtraCssFiles}}
+    <link rel="stylesheet" href="{{.}}?{{ .Now.Unix }}">
+{{end}}
+
+{{ end }}
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/styles/github.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<!-- Icon -->
+{{ if .Site.Params.FaviconFile }}
+<link rel="shortcut icon" href="/{{ .Site.Params.FaviconFile }}">
+{{ end }}
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->

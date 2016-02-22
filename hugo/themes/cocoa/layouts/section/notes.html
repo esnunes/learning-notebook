@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        <div class="content">
+            <div class="page-heading">{{ .Title }}</div>
+            {{ range $key, $value := .Site.Taxonomies.categories.Alphabetical }}
+              {{ $pages := where .Pages.ByTitle "Section" "notes" }}
+              {{ if gt $pages 0 }}
+                <h2><a href="/categories/{{ $value.Name | urlize }}">{{ $value.Name }}</a></h2>
+                <ul class="notes">
+                  {{ range $pages }}
+                    <li class="post-item">
+                      <div class="section">{{ .Params.is }}</div>
+                      <a href="{{ .Permalink }}">
+                        <div>{{ .Title }}</div>
+                      </a>
+                    </li>
+                  {{ end }}
+                </ul>
+              {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}

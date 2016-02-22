@@ -1,0 +1,39 @@
+baseurl = "https://nunes.io/"
+builddrafts = false
+canonifyurls = true
+contentdir = "../content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "../public"
+author = "Eduardo Nunes"
+title = "Eduardo Nunes"
+disqusShortname = "nunesio" # TODO: optional, comment out to disable Disqus
+pluralizelisttitles = false
+preserveTaxonomyNames = true
+
+[taxonomies]
+categories = "categories"
+
+[permalinks]
+fixed = ":title/"
+
+[params]
+Author = "Eduardo Nunes"
+CacheBuster = true
+DateForm = "Jan 2, 2006"
+DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
+Description = "Eduardo S. Nunes"
+Email = "esnunes@gmail.com" # TODO:
+# FaviconFile = "img/leaf.ico"
+GATracker = "XYZ" # TODO:
+GitHub = "//github.com/esnunes" # TODO:
+Initials = "ad" # displayed on single post page; DEPRECATED in v0.3.0
+Lang = "en"
+NodeJS = "//www.npmjs.com/~esnunes"
+LinkedIn = "//linkedin.com/in/esnunes"
+Twitter = "//twitter.com/esnunes"
+ExtraCssFiles = [] # relative to public directory
+
+[blackfriday]
+plainIDAnchors = true
+hrefTargetBlank = true
