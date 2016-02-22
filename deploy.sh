@@ -4,6 +4,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 cd hugo
+lessc themes/cocoa/main.less themes/cocoa/static/css/main.css
 hugo -t cocoa # if using a theme, replace by `hugo -t <yourtheme>`
 cd ..
 
@@ -24,4 +25,3 @@ git push origin master
 
 # Come Back
 cd ..
-
