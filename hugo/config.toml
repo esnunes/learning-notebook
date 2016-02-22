@@ -1,4 +1,4 @@
-baseurl = "https://nunes.io/"
+baseurl = "http://nunes.io/"
 builddrafts = false
 canonifyurls = true
 contentdir = "../content"
