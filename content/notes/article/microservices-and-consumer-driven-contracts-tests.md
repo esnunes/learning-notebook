@@ -1,6 +1,6 @@
 ---
 title: Microservices and Consumer-Driven Contracts Tests
-date: 2016-03-07T20:48:00
+date: 2016-03-07T20:48:00-03:00
 is: Article
 categories:
   - Software Testing
