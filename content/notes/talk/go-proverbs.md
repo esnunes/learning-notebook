@@ -1,6 +1,6 @@
 ---
 title: "Go Proverbs - Rob Pike"
-date: 2016-04-19
+date: "2016-04-19T21:23:00-03:00"
 is: Talk
 categories:
   - Golang

@@ -1,6 +1,6 @@
 ---
 title: "LeftPad and Go: can tooling help?"
-date: 2016-04-19
+date: "2016-04-19T21:00:00-03:00"
 is: Article
 categories:
   - Golang
